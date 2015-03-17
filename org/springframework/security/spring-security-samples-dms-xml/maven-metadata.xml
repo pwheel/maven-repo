@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.security</groupId>
+  <artifactId>spring-security-samples-dms-xml</artifactId>
+  <version>3.2.1.0-ACL-UUID-RELEASE</version>
+  <versioning>
+    <versions>
+      <version>3.2.1.0-ACL-UUID-RELEASE</version>
+    </versions>
+    <lastUpdated>20150317133408</lastUpdated>
+  </versioning>
+</metadata>
